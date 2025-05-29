@@ -1,2 +1,5 @@
 # ML_Bootcamp
-Google ML Crash Course repository.
+A personal repo for studying topics related to data science and machine learning.
+
+* Google ML Crash Course repository.
+* Pandas boot camp.
