@@ -1,0 +1,324 @@
+Name,Size,HP,Speed,Race,Alignment,Challenge,XP,Armor_Class,Armor_Info
+Aboleth,Large,135 (18d10+36),"10 ft., swim 40 ft.",aberration,Lawful Evil,10,5900,17,Natural Armor
+Acolyte,Medium,9 (2d8),30 ft.,humanoid (any race),Any Alignment,1/4,50,10,Natural Armor
+Adult Black Dragon,Huge,195 (17d12+85),"40 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,14,11500,19,Natural Armor
+Adult Blue Dragon,Huge,225 (18d12+108),"40 ft., burrow 30 ft., fly 80 ft.",dragon,Lawful Evil,16,15000,19,Natural Armor
+Adult Brass Dragon,Huge,172 (15d12+75),"40 ft., burrow 40 ft., fly 80 ft.",dragon,Chaotic Good,13,10000,18,Natural Armor
+Adult Bronze Dragon,Huge,212 (17d12+102),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,15,13000,19,Natural Armor
+Adult Copper Dragon,Huge,184 (16d12+80),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Good,14,11500,18,Natural Armor
+Adult Gold Dragon,Huge,256 (19d12+133),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,17,18000,19,Natural Armor
+Adult Green Dragon,Huge,207 (18d12+90),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Evil,15,13000,19,Natural Armor
+Adult Red Dragon,Huge,256 (19d12+133),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Evil,17,18000,19,Natural Armor
+Adult Silver Dragon,Huge,243 (18d12+126),"40 ft., fly 80 ft.",dragon,Lawful Good,16,15000,19,Natural Armor
+Adult White Dragon,Huge,200 (16d12+96),"40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,13,10000,18,Natural Armor
+Air Elemental,Large,90 (12d10+24),"0 ft., fly 90 ft. (hover)",elemental,Neutral,5,1800,15,Natural Armor
+Ancient Black Dragon,Gargantuan,367 (21d20+147),"40 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,21,33000,22,Natural Armor
+Ancient Blue Dragon,Gargantuan,481 (26d20+208),"40 ft., burrow 40 ft., fly 80 ft.",dragon,Lawful Evil,23,50000,22,Natural Armor
+Ancient Brass Dragon,Gargantuan,297 (17d20+119),"40 ft., burrow 40 ft., fly 80 ft.",dragon,Chaotic Good,20,25000,20,Natural Armor
+Ancient Bronze Dragon,Gargantuan,444 (24d20+192),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,22,41000,22,Natural Armor
+Ancient Copper Dragon,Gargantuan,350 (20d20+140),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Good,21,33000,21,Natural Armor
+Ancient Gold Dragon,Gargantuan,546 (28d20+252),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,24,62000,22,Natural Armor
+Ancient Green Dragon,Gargantuan,385 (22d20+154),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Evil,22,41000,21,Natural Armor
+Ancient Red Dragon,Gargantuan,546 (28d20+252),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Evil,24,62000,22,Natural Armor
+Ancient Silver Dragon,Gargantuan,487 (25d20+225),"40 ft., fly 80 ft.",dragon,Lawful Good,23,50000,22,Natural Armor
+Ancient White Dragon,Gargantuan,333 (18d20+144),"40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,20,25000,20,Natural Armor
+Androsphinx,Large,199 (19d10+95),"40 ft., fly 60 ft.",monstrosity,Lawful Neutral,17,18000,17,Natural Armor
+Animated Armor,Medium,33 (6d8+6),25 ft.,construct,Unaligned,1,200,18,Natural Armor
+Ankheg,Large,39 (6d10+6),"30 ft., burrow 10 ft.",monstrosity,Unaligned,2,450,14,"Natural Armor, 11 While Prone"
+Ape,Medium,19 (3d8+6),"30 ft., climb 30 ft.",beast,Unaligned,1/2,100,12,Natural Armor
+Archmage,Medium,99 (18d8+18),30 ft.,humanoid (any race),Any Alignment,12,8400,12,15 With Mage Armor
+Assassin,Medium,78 (12d8+24),30 ft.,humanoid (any race),Any Non-good Alignment,8,3900,15,Studded Leather
+Awakened Shrub,Small,10 (3d6),20 ft.,plant,Unaligned,0,10,9,Natural Armor
+Awakened Tree,Huge,59 (7d12+14),20 ft.,plant,Unaligned,2,450,13,Natural Armor
+Axe Beak,Large,19 (3d10+3),50 ft.,beast,Unaligned,1/4,50,11,Natural Armor
+Azer,Medium,39 (6d8+12),30 ft.,elemental,Lawful Neutral,2,450,17,"Natural Armor, Shield"
+Baboon,Small,3 (1d6),"30 ft., climb 30 ft.",beast,Unaligned,0,10,12,Natural Armor
+Badger,Tiny,3 (1d4+1),"20 ft., burrow 5 ft.",beast,Unaligned,0,10,10,Natural Armor
+Balor,Huge,262 (21d12+126),"40 ft., fly 80 ft.",fiend (demon),Chaotic Evil,19,22000,19,Natural Armor
+Bandit,Medium,11 (2d8+2),30 ft.,humanoid (any race),Any Non-lawful Alignment,1/8,25,12,Leather Armor
+Bandit Captain,Medium,65 (10d8+20),30 ft.,humanoid (any race),Any Non-lawful Alignment,2,450,15,Studded Leather
+Barbed Devil,Medium,110 (13d8+52),30 ft.,fiend (devil),Lawful Evil,5,1800,15,Natural Armor
+Basilisk,Medium,52 (8d8+16),20 ft.,monstrosity,Unaligned,3,700,15,Natural Armor
+Bat,Tiny,1 (1d4-1),"5 ft., fly 30 ft.",beast,Unaligned,0,10,12,Natural Armor
+Bearded Devil,Medium,52 (8d8+16),30 ft.,fiend (devil),Lawful Evil,3,700,13,Natural Armor
+Behir,Huge,168 (16d12+64),"50 ft., climb 40 ft.",monstrosity,Neutral Evil,11,7200,17,Natural Armor
+Berserker,Medium,67 (9d8+27),30 ft.,humanoid (any race),Any Chaotic Alignment,2,450,13,Hide Armor
+Black Bear,Medium,19 (3d8+6),"40 ft., climb 30 ft.",beast,Unaligned,1/2,100,11,Natural Armor
+Black Dragon Wyrmling,Medium,33 (6d8+6),"30 ft., fly 60 ft., swim 30 ft.",dragon,Chaotic Evil,2,450,17,Natural Armor
+Black Pudding,Large,85 (10d10+30),"20 ft., climb 20 ft.",ooze,Unaligned,4,1100,7,Natural Armor
+Blink Dog,Medium,22 (4d8+4),40 ft.,fey,Lawful Good,1/4,50,13,Natural Armor
+Blood Hawk,Small,7 (2d6),"10 ft., fly 60 ft.",beast,Unaligned,1/8,25,12,Natural Armor
+Blue Dragon Wyrmling,Medium,52 (8d8+16),"30 ft., burrow 15 ft., fly 60 ft.",dragon,Lawful Evil,3,700,17,Natural Armor
+Boar,Medium,11 (2d8+2),40 ft.,beast,Unaligned,1/4,50,11,Natural Armor
+Bone Devil,Large,142 (15d10+60),"40 ft., fly 40 ft.",fiend (devil),Lawful Evil,9,5000,19,Natural Armor
+Brass Dragon Wyrmling,Medium,16 (3d8+3),"30 ft., burrow 15 ft., fly 60 ft.",dragon,Chaotic Good,1,200,16,Natural Armor
+Bronze Dragon Wyrmling,Medium,32 (5d8+10),"30 ft., fly 60 ft., swim 30 ft.",dragon,Lawful Good,2,450,17,Natural Armor
+Brown Bear,Large,34 (4d10+12),"40 ft., climb 30 ft.",beast,Unaligned,1,200,11,Natural Armor
+Bugbear,Medium,27 (5d8+5),30 ft.,humanoid (goblinoid),Chaotic Evil,1,200,16,"Hide Armor, Shield"
+Bulette,Large,94 (9d10+45),"40 ft., burrow 40 ft.",monstrosity,Unaligned,5,1800,17,Natural Armor
+Camel,Large,15 (2d10+4),50 ft.,beast,Unaligned,1/8,25,9,Natural Armor
+Cat,Tiny,2 (1d4),"40 ft., climb 30 ft.",beast,Unaligned,0,10,12,Natural Armor
+Centaur,Large,45 (6d10+12),50 ft.,monstrosity,Neutral Good,2,450,12,Natural Armor
+Chain Devil,Medium,85 (10d8+40),30 ft.,fiend (devil),Lawful Evil,8,3900,16,Natural Armor
+Chimera,Large,114 (12d10+48),"30 ft., fly 60 ft.",monstrosity,Chaotic Evil,6,2300,14,Natural Armor
+Chuul,Large,93 (11d10+33),"30 ft., swim 30 ft.",aberration,Chaotic Evil,4,1100,16,Natural Armor
+Clay Golem,Large,133 (14d10+56),20 ft.,construct,Unaligned,9,5000,14,Natural Armor
+Cloaker,Large,78 (12d10+12),"10 ft., fly 40 ft.",aberration,Chaotic Neutral,8,3900,14,Natural Armor
+Cloud Giant,Huge,200 (16d12+96),40 ft.,giant,Neutral Good (50%) Or Neutral Evil (50%),9,5000,14,Natural Armor
+Cockatrice,Small,27 (6d6+6),"20 ft., fly 40 ft.",monstrosity,Unaligned,1/2,100,11,Natural Armor
+Commoner,Medium,4 (1d8),30 ft.,humanoid (any race),Any Alignment,0,10,10,Natural Armor
+Constrictor Snake,Large,13 (2d10+2),"30 ft., swim 30 ft.",beast,Unaligned,1/4,50,12,Natural Armor
+Copper Dragon Wyrmling,Medium,22 (4d8+4),"30 ft., climb 30 ft., fly 60 ft.",dragon,Chaotic Good,1,200,16,Natural Armor
+Couatl,Medium,97 (13d8+39),"30 ft., fly 90 ft.",celestial,Lawful Good,4,1100,19,Natural Armor
+Crab,Tiny,2 (1d4),"20 ft., swim 20 ft.",beast,Unaligned,0,10,11,Natural Armor
+Crocodile,Large,19 (3d10+3),"20 ft., swim 30 ft.",beast,Unaligned,1/2,100,12,Natural Armor
+Cult Fanatic,Medium,33 (6d8+6),30 ft.,humanoid (any race),Any Non-good Alignment,2,450,13,Leather Armor
+Cultist,Medium,9 (2d8),30 ft.,humanoid (any race),Any Non-good Alignment,1/8,25,12,Leather Armor
+Darkmantle,Small,22 (5d6+5),"10 ft., fly 30 ft.",monstrosity,Unaligned,1/2,100,11,Natural Armor
+Death Dog,Medium,39 (6d8+12),40 ft.,monstrosity,Neutral Evil,1,200,12,Natural Armor
+Deep Gnome (Svirfneblin),Small,16 (3d6 + 6),20 ft.,humanoid (gnome),Neutral Good,1/2,100,15,chain shirt
+Deer,Medium,4 (1d8),50 ft.,beast,Unaligned,0,10,13,Natural Armor
+Deva,Medium,136 (16d8+64),"30 ft., fly 90 ft.",celestial,Lawful Good,10,5900,17,Natural Armor
+Dire Wolf,Large,37 (5d10+10),50 ft.,beast,Unaligned,1,200,14,Natural Armor
+Diseased Giant Rat,Small,7,30 ft.,beast,Unaligned,1/8,25,12,Natural Armor
+Djinni,Large,161 (14d10+84),"30 ft., fly 90 ft.",elemental,Chaotic Good,11,7200,17,Natural Armor
+Doppelganger,Medium,52 (8d8+16),30 ft.,monstrosity (shapechanger),Unaligned,3,700,14,Natural Armor
+Draft Horse,Large,19 (3d10+3),40 ft.,beast,Unaligned,1/4,50,10,Natural Armor
+Dragon Turtle,Gargantuan,341 (22d20+10),"20 ft., swim 40 ft.",dragon,Neutral,17,18000,20,Natural Armor
+Dretch,Small,18 (4d6+4),20 ft.,fiend (demon),Chaotic Evil,1/4,50,11,Natural Armor
+Drider,Large,123 (13d10+52),"30 ft., climb 30 ft.",monstrosity,Chaotic Evil,6,2300,19,Natural Armor
+Drow,Medium,13 (3d8),30 ft.,humanoid (elf),Neutral Evil,1/4,50,15,Chain Shirt
+Druid,Medium,27 (5d8+5),30 ft.,humanoid (any race),Any Alignment,2,450,11,16 With Barkskin
+Dryad,Medium,22 (5d8),30 ft.,fey,Neutral,1,200,11,16 With Barkskin
+Duergar,Medium,26 (4d8+4),25 ft.,humanoid (dwarf),Lawful Evil,1,200,16,"Scale Mail, Shield"
+Dust Mephit,Small,17 (5d6),"30 ft., fly 30 ft.",elemental,Neutral Evil,1/2,100,12,Natural Armor
+Eagle,Small,3 (1d6),"10 ft., fly 60 ft.",beast,Unaligned,0,10,12,Natural Armor
+Earth Elemental,Large,126 (12d10+60),"30 ft., burrow 30 ft.",elemental,Neutral,5,1800,17,Natural Armor
+Efreeti,Large,200 (16d10+112),"40 ft., fly 60 ft.",elemental,Lawful Evil,11,7200,17,Natural Armor
+Elephant,Huge,76 (8d12+24),40 ft.,beast,Unaligned,4,1100,12,Natural Armor
+Elk,Large,13 (2d10+2),50 ft.,beast,Unaligned,1/4,50,10,Natural Armor
+Erinyes,Medium,153 (18d8+72),"30 ft., fly 60 ft.",fiend (devil),Lawful Evil,12,8400,18,Plate
+Ettercap,Medium,44 (8d8+8),"30 ft., climb 30 ft.",monstrosity,Neutral Evil,2,450,13,Natural Armor
+Ettin,Large,85 (10d10+30),40 ft.,giant,Chaotic Evil,4,1100,12,Natural Armor
+Fire Elemental,Large,102 (12d10+36),50 ft.,elemental,Neutral,5,1800,13,Natural Armor
+Fire Giant,Huge,162 (13d12+78),30 ft.,giant,Lawful Evil,9,5000,18,Plate
+Flesh Golem,Medium,93 (11d8+44),30 ft.,construct,Neutral,5,1800,9,Natural Armor
+Flying Snake,Tiny,5 (2d4),"30 ft., fly 60 ft., swim 30 ft.",beast,Unaligned,1/8,25,14,Natural Armor
+Flying Sword,Small,17 (5d6),"0 ft., fly 50 ft. It can hover.",construct,Unaligned,1/4,50,17,Natural Armor
+Frog,Tiny,1 (1d4-1),"20 ft., swim 20 ft.",beast,Unaligned,0,10,11,Natural Armor
+Frost Giant,Huge,138 (12d12+60),40 ft.,giant,Neutral Evil,8,3900,15,Patchwork Armor
+Gargoyle,Medium,52 (7d8+21),"30 ft., fly 60 ft.",elemental,Chaotic Evil,2,450,15,Natural Armor
+Gelatinous Cube,Large,84 (8d10+40),15 ft.,ooze,Unaligned,2,450,6,Natural Armor
+Ghast,Medium,36 (8d8),30 ft.,undead,Chaotic Evil,2,450,13,Natural Armor
+Ghost,Medium,45 (10d8),"0 ft., fly 40 ft. It can hover.",undead,Any Alignment,4,1100,11,Natural Armor
+Ghoul,Medium,22 (5d8),30 ft.,undead,Chaotic Evil,1,200,12,Natural Armor
+Giant Ape,Huge,157 (15d12+60),"40 ft., climb 40 ft.",beast,Unaligned,7,2900,12,Natural Armor
+Giant Badger,Medium,13 (2d8+4),"30 ft., burrow 10 ft.",beast,Unaligned,1/4,50,10,Natural Armor
+Giant Bat,Large,22 (4d10),"10 ft., fly 60 ft.",beast,Unaligned,1/4,50,13,Natural Armor
+Giant Boar,Large,42 (5d10+15),40 ft.,beast,Unaligned,2,450,12,Natural Armor
+Giant Centipede,Small,4 (1d6+1),"30 ft., climb 30 ft.",beast,Unaligned,1/4,50,13,Natural Armor
+Giant Constrictor Snake,Huge,60 (8d12+8),"30 ft., swim 30 ft.",beast,Unaligned,2,450,12,Natural Armor
+Giant Crab,Medium,13 (3d8),"30 ft., swim 30 ft.",beast,Unaligned,1/8,25,15,Natural Armor
+Giant Crocodile,Huge,85 (9d12+27),"30 ft., swim 50 ft.",beast,Unaligned,5,1800,14,Natural Armor
+Giant Eagle,Large,26 (4d10+4),"10 ft., fly 80 ft.",beast,Neutral Good,1,200,13,Natural Armor
+Giant Elk,Huge,42 (5d12+10),60 ft.,beast,Unaligned,2,450,14,Natural Armor
+Giant Fire Beetle,Small,4 (1d6+1),30 ft.,beast,Unaligned,0,10,13,Natural Armor
+Giant Frog,Medium,18 (4d8),"30 ft., swim 30 ft.",beast,Unaligned,1/4,50,11,Natural Armor
+Giant Goat,Large,19 (3d10+3),40 ft.,beast,Unaligned,1/2,100,11,Natural Armor
+Giant Hyena,Large,45 (6d10+12),50 ft.,beast,Unaligned,1,200,12,Natural Armor
+Giant Lizard,Large,19 (3d10+3),"30 ft., climb 30 ft.",beast,Unaligned,1/4,50,12,Natural Armor
+Giant Octopus,Large,52 (8d10+8),"10 ft., swim 60 ft.",beast,Unaligned,1,200,11,Natural Armor
+Giant Owl,Large,19 (3d10+3),"5 ft., fly 60 ft.",beast,Neutral,1/4,50,12,Natural Armor
+Giant Poisonous Snake,Medium,11 (2d8+2),"30 ft., swim 30 ft.",beast,Unaligned,1/4,50,14,Natural Armor
+Giant Rat,Small,7 (2d6),30 ft.,beast,Unaligned,1/8,25,12,Natural Armor
+Giant Scorpion,Large,52 (7d10+14),40 ft.,beast,Unaligned,3,700,15,Natural Armor
+Giant Sea Horse,Large,16 (3d10),"0 ft., swim 40 ft.",beast,Unaligned,1/2,100,13,Natural Armor
+Giant Shark,Huge,126 (11d12+55),Swim 50 ft.,beast,Unaligned,5,1800,13,Natural Armor
+Giant Spider,Large,26 (4d10+4),"30 ft., climb 30 ft.",beast,Unaligned,1,200,14,Natural Armor
+Giant Toad,Large,39 (6d10+6),"20 ft., swim 40 ft.",beast,Unaligned,1,200,11,Natural Armor
+Giant Vulture,Large,22 (3d10+6),"10 ft., fly 60 ft.",beast,Neutral Evil,1,200,10,Natural Armor
+Giant Wasp,Medium,13 (3d8),"10 ft., fly 50 ft.",beast,Unaligned,1/2,100,12,Natural Armor
+Giant Weasel,Medium,9 (2d8),40 ft.,beast,Unaligned,1/8,25,13,Natural Armor
+Giant Wolf Spider,Medium,11 (2d8+2),"40 ft., climb 40 ft.",beast,Unaligned,1/4,50,13,Natural Armor
+Gibbering Mouther,Medium,67 (9d8+27),"10 ft., swim 10 ft.",aberration,Neutral,2,450,9,Natural Armor
+Glabrezu,Large,157 (15d10+75),40 ft.,fiend (demon),Chaotic Evil,9,5000,17,Natural Armor
+Gladiator,Medium,112 (15d8+45),30 ft.,humanoid (any race),Any Alignment,5,1800,16,"Studded Leather, Shield"
+Gnoll,Medium,22 (5d8),30 ft.,humanoid (gnoll),Chaotic Evil,1/2,100,15,"Hide Armor, Shield"
+Goat,Medium,4 (1d8),40 ft.,beast,Unaligned,0,10,10,Natural Armor
+Goblin,Small,7 (2d6),30 ft.,humanoid (goblinoid),Neutral Evil,1/4,50,15,"Leather Armor, Shield"
+Gold Dragon Wyrmling,Medium,60 (8d8+24),"30 ft., fly 60 ft., swim 30 ft.",dragon,Lawful Good,3,700,17,Natural Armor
+Gorgon,Large,114 (12d10+48),40 ft.,monstrosity,Unaligned,5,1800,19,Natural Armor
+Gray Ooze,Medium,22 (3d8+9),"10 ft., climb 10 ft.",ooze,Unaligned,1/2,100,8,Natural Armor
+Green Dragon Wyrmling,Medium,38 (7d8+7),"30 ft., fly 60 ft., swim 30 ft.",dragon,Lawful Evil,2,450,17,Natural Armor
+Green Hag,Medium,82 (11d8+33),30 ft.,fey,Neutral Evil,3,700,17,Natural Armor
+Grick,Medium,27 (6d8),"30 ft., climb 30 ft.",monstrosity,Neutral,2,450,14,Natural Armor
+Griffon,Large,59 (7d10+21),"30 ft., fly 80 ft.",monstrosity,Unaligned,2,450,12,Natural Armor
+Grimlock,Medium,11 (2d8+2),30 ft.,humanoid (grimlock),Neutral Evil,1/4,50,11,Natural Armor
+Guard,Medium,11 (2d8+2),30 ft.,humanoid (any race),Any Alignment,1/8,25,16,"Chain Shirt, Shield"
+Guardian Naga,Large,127 (15d10+45),40 ft.,monstrosity,Lawful Good,10,5900,18,Natural Armor
+Gynosphinx,Large,136 (16d10+48),"40 ft., fly 60 ft.",monstrosity,Lawful Neutral,11,7200,17,Natural Armor
+Half-Red Dragon Veteran,Medium,65 (10d8+20),30 ft.,humanoid (human),Any,5,1800,18,plate
+Harpy,Medium,38 (7d8+7),"20 ft., fly 40 ft.",monstrosity,Chaotic Evil,1,200,11,Natural Armor
+Hawk,Tiny,1 (1d4-1),"10 ft., fly 60 ft.",beast,Unaligned,0,10,13,Natural Armor
+Hell Hound,Medium,45 (7d8+14),50 ft.,fiend,Lawful Evil,3,700,15,Natural Armor
+Hezrou,Large,136 (13d10+65),30 ft.,fiend (demon),Chaotic Evil,8,3900,16,Natural Armor
+Hill Giant,Huge,105 (10d12+40),40 ft.,giant,Chaotic Evil,5,1800,13,Natural Armor
+Hippogriff,Large,19 (3d10+3),"40 ft, fly 60 ft.",monstrosity,Unaligned,1,200,11,Natural Armor
+Hobgoblin,Medium,11 (2d8+2),30 ft.,humanoid (goblinoid),Lawful Evil,1/2,100,18,"Chain Mail, Shield"
+Homunculus,Tiny,5 (2d4),"20 ft., fly 40 ft.",construct,Neutral,0,10,13,Natural Armor
+Horned Devil,Large,178 (17d10+85),"20 ft., fly 60 ft.",fiend (devil),Lawful Evil,11,7200,18,Natural Armor
+Hunter Shark,Large,45 (6d10+12),Swim 40 ft.,beast,Unaligned,2,450,12,Natural Armor
+Hydra,Huge,172 (15d12+75),"30 ft., swim 30 ft.",monstrosity,Unaligned,8,3900,15,Natural Armor
+Hyena,Medium,5 (1d8+1),50 ft.,beast,Unaligned,0,10,11,Natural Armor
+Ice Devil,Large,180 (19d10+76),40 ft.,fiend (devil),Lawful Evil,14,11500,18,Natural Armor
+Ice Mephit,Small,21 (6d6),"30 ft., fly 30 ft.",elemental,Neutral Evil,1/2,100,11,Natural Armor
+Imp,Tiny,10 (3d4+3),"20 ft., fly 40 ft.",fiend (devil  shapechanger),Lawful Evil,1,200,13,Natural Armor
+Incubus,Medium,66 (12d8 + 12),"30 ft., fly 60 ft.",Fiend (Shapechanger),Neutral Evil,4,1100,15,Natural Armor
+Invisible Stalker,Medium,104 (16d8+32),"50 ft., fly 50 ft. (hover)",elemental,Neutral,6,2300,14,Natural Armor
+Iron Golem,Large,210 (20d10+100),30 ft.,construct,Unaligned,16,15000,20,Natural Armor
+Jackal,Small,3 (1d6),40 ft.,beast,Unaligned,0,10,12,Natural Armor
+Killer Whale,Huge,90 (12d12+12),Swim 60 ft.,beast,Unaligned,3,700,12,Natural Armor
+Knight,Medium,52 (8d8+16),30 ft.,humanoid (any race),Any Alignment,3,700,18,Plate
+Kobold,Small,5 (2d6-2),30 ft.,humanoid (kobold),Lawful Evil,1/8,25,12,Natural Armor
+Kraken,Gargantuan,472 (27d20+189),"20 ft., swim 60 ft.",monstrosity (titan),Chaotic Evil,23,50000,18,Natural Armor
+Lamia,Large,97 (13d10+26),30 ft.,monstrosity,Chaotic Evil,4,1100,13,Natural Armor
+Lemure,Medium,13 (3d8),15 ft.,fiend (devil),Lawful Evil,0,10,7,Natural Armor
+Lich,Medium,135 (18d8+54),30 ft.,undead,Any Evil Alignment,21,33000,17,Natural Armor
+Lion,Large,26 (4d10+4),50 ft.,beast,Unaligned,1,200,12,Natural Armor
+Lizard,Tiny,2 (1d4),"20 ft., climb 20 ft.",beast,Unaligned,0,10,10,Natural Armor
+Lizardfolk,Medium,22 (4d8+4),"30 ft., swim 30 ft.",humanoid (lizardfolk),Neutral,1/2,100,15,"Natural Armor, Shield"
+Mage,Medium,40 (9d8),30 ft.,humanoid (any race),Any Alignment,6,2300,12,15 With Mage Armor
+Magma Mephit,Small,22 (5d6+5),"30 ft., fly 30 ft.",elemental,Neutral Evil,1/2,100,11,Natural Armor
+Magmin,Small,9 (2d6+2),30 ft.,elemental,Chaotic Neutral,1/2,100,14,Natural Armor
+Mammoth,Huge,126 (11d12+55),40 ft.,beast,Unaligned,6,2300,13,Natural Armor
+Manticore,Large,68 (8d10+24),"30 ft., fly 50 ft.",monstrosity,Lawful Evil,3,700,14,Natural Armor
+Marilith,Large,189 (18d10+90),40 ft.,fiend (demon),Chaotic Evil,16,15000,18,Natural Armor
+Mastiff,Medium,5 (1d8+1),40 ft.,beast,Unaligned,1/8,25,12,Natural Armor
+Medusa,Medium,127 (17d8+51),30 ft.,monstrosity,Lawful Evil,6,2300,15,Natural Armor
+Merfolk,Medium,11 (2d8+2),"10 ft., swim 40 ft.",humanoid (merfolk),Neutral,1/8,25,11,Natural Armor
+Merrow,Large,45 (6d10+12),"10 ft., swim 40 ft.",monstrosity,Chaotic Evil,2,450,13,Natural Armor
+Mimic,Medium,58 (9d8+18),15 ft.,monstrosity (shapechanger),Neutral,2,450,12,Natural Armor
+Minotaur,Large,76 (9d10+27),40 ft.,monstrosity,Chaotic Evil,3,700,14,Natural Armor
+Minotaur Skeleton,Large,67 (9d10+18),40 ft.,undead,Lawful Evil,2,450,12,Natural Armor
+Mule,Medium,11 (2d8+2),40 ft.,beast,Unaligned,1/8,25,10,Natural Armor
+Mummy,Medium,58 (9d8+18),20 ft.,undead,Lawful Evil,3,700,11,Natural Armor
+Mummy Lord,Medium,97 (13d8+39),20 ft.,undead,Lawful Evil,15,13000,17,Natural Armor
+Nalfeshnee,Large,184 (16d10+96),"20 ft., fly 30 ft.",fiend (demon),Chaotic Evil,13,10000,18,Natural Armor
+Night Hag,Medium,112 (15d8+45),30 ft.,fiend,Neutral Evil,5,1800,17,Natural Armor
+Nightmare,Large,68 (8d10+24),"60 ft., fly 90 ft.",fiend,Neutral Evil,3,700,13,Natural Armor
+Noble,Medium,9 (2d8),30 ft.,humanoid (any race),Any Alignment,1/8,25,15,Breastplate
+Ochre Jelly,Large,45 (6d10+12),"10 ft., climb 10 ft.",ooze,Unaligned,2,450,8,Natural Armor
+Octopus,Small,3 (1d6),"5 ft., swim 30 ft.",beast,Unaligned,0,10,12,Natural Armor
+Ogre,Large,59 (7d10+21),40 ft.,giant,Chaotic Evil,2,450,11,Hide Armor
+Ogre Zombie,Large,85 (9d10+36),30 ft.,undead,Neutral Evil,2,450,8,Natural Armor
+Oni,Large,110 (13d10+39),"30 ft., fly 30 ft.",giant,Lawful Evil,7,2900,16,Chain Mail
+Orc,Medium,15 (2d8+6),30 ft.,humanoid (orc),Chaotic Evil,1/2,100,13,Hide Armor
+Otyugh,Large,114 (12d10+48),30 ft.,aberration,Neutral,5,1800,14,Natural Armor
+Owl,Tiny,1 (1d4-1),"5 ft., fly 60 ft.",beast,Unaligned,0,10,11,Natural Armor
+Owlbear,Large,59 (7d10+21),40 ft.,monstrosity,Unaligned,3,700,13,Natural Armor
+Panther,Medium,13 (3d8),"50 ft., climb 40 ft.",beast,Unaligned,1/4,50,12,Natural Armor
+Pegasus,Large,59 (7d10+21),"60 ft., fly 90 ft.",celestial,Chaotic Good,2,450,12,Natural Armor
+Phase Spider,Large,32 (5d10+5),"30 ft., climb 30 ft.",monstrosity,Unaligned,3,700,13,Natural Armor
+Pit Fiend,Large,300 (24d10+168),"30 ft., fly 60 ft.",fiend (devil),Lawful Evil,20,25000,19,Natural Armor
+Planetar,Large,200 (16d10+112),"40 ft., fly 120 ft.",celestial,Lawful Good,16,15000,19,Natural Armor
+Plesiosaurus,Large,68 (8d10+24),"20 ft., swim 40 ft.",beast,Unaligned,2,450,13,Natural Armor
+Poisonous Snake,Tiny,2 (1d4),"30 ft., swim 30 ft.",beast,Unaligned,1/8,25,13,Natural Armor
+Polar Bear,Large,42 (5d10+15),"40 ft., swim 30 ft.",beast,Unaligned,2,450,12,Natural Armor
+Pony,Medium,11 (2d8+2),40 ft.,beast,Unaligned,1/8,25,10,Natural Armor
+Priest,Medium,27 (5d8+5),25 ft.,humanoid (any race),Any Alignment,2,450,13,Chain Shirt
+Pseudodragon,Tiny,7 (2d4+2),"15 ft., fly 60 ft.",dragon,Neutral Good,1/4,50,13,Natural Armor
+Purple Worm,Gargantuan,247 (15d20+90),"50 ft., burrow 30 ft.",monstrosity,Unaligned,15,13000,18,Natural Armor
+Quasit,Tiny,7 (3d4),40 ft.,fiend (demon),Chaotic Evil,1,200,13,Natural Armor
+Quipper,Tiny,1 (1d4-1),Swim 40 ft.,beast,Unaligned,0,10,13,Natural Armor
+Rakshasa,Medium,110 (13d8+52),40 ft.,fiend,Lawful Evil,13,10000,16,Natural Armor
+Rat,Tiny,1 (1d4-1),20 ft.,beast,Unaligned,0,10,10,Natural Armor
+Raven,Tiny,1 (1d4-1),"10 ft., fly 50 ft.",beast,Unaligned,0,10,12,Natural Armor
+Red Dragon Wyrmling,Medium,75 (10d8+30),"30 ft., climb 30 ft., fly 60 ft.",dragon,Chaotic Evil,4,1100,17,Natural Armor
+Reef Shark,Medium,22 (4d8+4),Swim 40 ft.,beast,Unaligned,1/2,100,12,Natural Armor
+Remorhaz,Huge,195 (17d12+85),"30 ft., burrow 20 ft.",monstrosity,Unaligned,11,7200,17,Natural Armor
+Rhinoceros,Large,45 (6d10+12),40 ft.,beast,Unaligned,2,450,11,Natural Armor
+Riding Horse,Large,13 (2d10+2),60 ft.,beast,Unaligned,1/4,50,10,Natural Armor
+Roc,Gargantuan,248 (16d20+80),"20 ft., fly 120 ft.",monstrosity,Unaligned,11,7200,15,Natural Armor
+Roper,Large,93 (11d10+33),"10 ft., climb 10 ft.",monstrosity,Neutral Evil,5,1800,20,Natural Armor
+Rug of Smothering,Large,33 (6d10),10 ft.,construct,Unaligned,2,450,12,Natural Armor
+Rust Monster,Medium,27 (5d8+5),40 ft.,monstrosity,Unaligned,1/2,100,14,Natural Armor
+Saber-Toothed Tiger,Large,52 (7d10 + 14),40 ft.,beast,Unaligned,2,450,12,Natural Armor
+Sahuagin,Medium,22 (4d8+4),"30 ft., swim 40 ft.",humanoid (sahuagin),Lawful Evil,1/2,100,12,Natural Armor
+Salamander,Large,90 (12d10+24),30 ft.,elemental,Neutral Evil,5,1800,15,Natural Armor
+Satyr,Medium,31 (7d8),40 ft.,fey,Chaotic Neutral,1/2,100,14,Leather Armor
+Scorpion,Tiny,1 (1d4-1),10 ft.,beast,Unaligned,0,10,11,Natural Armor
+Scout,Medium,16 (3d8+3),30 ft.,humanoid (any race),Any Alignment,1/2,100,13,Leather Armor
+Sea Hag,Medium,52 (7d8+21),"30 ft., swim 40 ft.",fey,Chaotic Evil,2,450,14,Natural Armor
+Sea Horse,Tiny,1 (1d4-1),Swim 20 ft.,beast,Unaligned,0,10,11,Natural Armor
+Shadow,Medium,16 (3d8+3),40 ft.,undead,Chaotic Evil,1/2,100,12,Natural Armor
+Shambling Mound,Large,136 (16d10+48),"20 ft., swim 20 ft.",plant,Unaligned,5,1800,15,Natural Armor
+Shield Guardian,Large,142 (15d10+60),30 ft.,construct,Unaligned,7,2900,17,Natural Armor
+Shrieker,Medium,13 (3d8),0 ft.,plant,Unaligned,0,10,5,Natural Armor
+Silver Dragon Wyrmling,Medium,45 (6d8+18),"30 ft., fly 60 ft.",dragon,Lawful Good,2,450,17,Natural Armor
+Skeleton,Medium,13 (2d8+4),30 ft.,undead,Lawful Evil,1/4,50,13,Armor Scraps
+Solar,Large,243 (18d10+144),"50 ft., fly 150 ft.",celestial,Lawful Good,21,33000,21,Natural Armor
+Specter,Medium,22 (5d8),"0 ft., fly 50 ft. (hover)",undead,Chaotic Evil,1,200,12,Natural Armor
+Spider,Tiny,1 (1d4-1),"20 ft., climb 20 ft.",beast,Unaligned,0,10,12,Natural Armor
+Spirit Naga,Large,75 (10d10+20),40 ft.,monstrosity,Chaotic Evil,8,3900,15,Natural Armor
+Sprite,Tiny,2 (1d4),"10 ft., fly 40 ft.",fey,Neutral Good,1/4,50,15,Leather Armor
+Spy,Medium,27 (6d8),30 ft.,humanoid (any race),Any Alignment,1,200,12,Natural Armor
+Steam Mephit,Small,21 (6d6),"30 ft., fly 30 ft.",elemental,Neutral Evil,1/4,50,10,Natural Armor
+Stirge,Tiny,2 (1d4),"10 ft., fly 40 ft.",beast,Unaligned,1/8,25,14,Natural Armor
+Stone Giant,Huge,126 (11d12+55),40 ft.,giant,Neutral,7,2900,17,Natural Armor
+Stone Golem,Large,178 (17d10+85),30 ft.,construct,Unaligned,10,5900,17,Natural Armor
+Storm Giant,Huge,230 (20d12+100),"50 ft., swim 50 ft.",giant,Chaotic Good,13,10000,16,Scale Mail
+Succubus,Medium,66 (12d8 + 12),"30 ft., fly 60 ft.",Fiend (Shapechanger),Neutral Evil,4,1100,15,Natural Armor
+Swarm of Bats,Medium,22 (5d8),"0 ft., fly 30 ft.",swarm of tiny beasts,Unaligned,1/4,50,12,Natural Armor
+Swarm of Beetles,Medium,22 (5d8),"20 ft., burrow 5 ft., climb 20 ft.",swarm of tiny beasts,Unaligned,1/2,100,12,Natural Armor
+Swarm of Centipedes,Medium,22 (5d8),"20 ft., climb 20 ft.",swarm of tiny beasts,Unaligned,1/2,100,12,Natural Armor
+Swarm of Insects,Medium,22 (5d8),"20 ft., climb 20 ft.",swarm of tiny beasts,Unaligned,1/2,100,12,Natural Armor
+Swarm of Poisonous Snakes,Medium,36 (8d8),"30 ft., swim 30 ft.",swarm of tiny beasts,Unaligned,2,450,14,Natural Armor
+Swarm of Quippers,Medium,28 (8d8-8),"0 ft., swim 40 ft.",swarm of tiny beasts,Unaligned,1,200,13,Natural Armor
+Swarm of Rats,Medium,24 (7d8-7),30 ft.,swarm of tiny beasts,Unaligned,1/4,50,10,Natural Armor
+Swarm of Ravens,Medium,24 (7d8-7),"10 ft., fly 50 ft.",swarm of tiny beasts,Unaligned,1/4,50,12,Natural Armor
+Swarm of Spiders,Medium,22 (5d8),"20 ft., climb 20 ft.",swarm of tiny beasts,Unaligned,1/2,100,12,Natural Armor
+Swarm of Wasps,Medium,22 (5d8),"5 ft., fly 30 ft.",swarm of tiny beasts,Unaligned,1/2,100,12,Natural Armor
+Tarrasque,Gargantuan,676 (33d20+330),40 ft.,monstrosity (titan),Unaligned,30,155000,25,Natural Armor
+Thug,Medium,32 (5d8+10),30 ft.,humanoid (any race),Any Non-good Alignment,1/2,100,11,Leather Armor
+Tiger,Large,37 (5d10+10),40 ft.,beast,Unaligned,1,200,12,Natural Armor
+Treant,Huge,138 (12d12+60),30 ft.,plant,Chaotic Good,9,5000,16,Natural Armor
+Tribal Warrior,Medium,11 (2d8+2),30 ft.,humanoid (any race),Any Alignment,1/8,25,12,Hide Armor
+Triceratops,Huge,95 (10d12+30),50 ft.,beast,Unaligned,5,1800,13,Natural Armor
+Troll,Large,84 (8d10+40),30 ft.,giant,Chaotic Evil,5,1800,15,Natural Armor
+Tyrannosaurus Rex,Huge,136 (13d12+52),50 ft.,beast,Unaligned,8,3900,13,Natural Armor
+Unicorn,Large,67 (9d10+18),50 ft.,celestial,Lawful Good,5,1800,12,Natural Armor
+Vampire,Medium,144 (17d8+68),30 ft.,undead (shapechanger),Lawful Evil,13,10000,16,Natural Armor
+Vampire Spawn,Medium,82 (11d8+33),30 ft.,undead,Neutral Evil,5,1800,15,Natural Armor
+Veteran,Medium,58 (9d8+18),30 ft.,humanoid (any race),Any Alignment,3,700,17,Splint
+Violet Fungus,Medium,18 (4d8),5 ft.,plant,Unaligned,1/4,50,5,Natural Armor
+Vrock,Large,104 (11d10+44),"40 ft., fly 60 ft.",fiend (demon),Chaotic Evil,6,2300,15,Natural Armor
+Vulture,Medium,5 (1d8+1),"10 ft., fly 50 ft.",beast,Unaligned,0,10,10,Natural Armor
+Warhorse,Large,19 (3d10+3),60 ft.,beast,Unaligned,1/2,100,11,Natural Armor
+Warhorse Skeleton,Large,22 (3d10+6),60 ft.,undead,Lawful Evil,1/2,100,13,Barding Scraps
+Water Elemental,Large,114 (12d10+48),"30 ft., swim 90 ft.",elemental,Neutral,5,1800,14,Natural Armor
+Weasel,Tiny,1 (1d4-1),30 ft.,beast,Unaligned,0,10,13,Natural Armor
+Werebear,Medium,135 (18d8+54),"30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",humanoid (human  shapechanger),Neutral Good,5,1800,10,"In Humanoid Form, 11 In Bear And Hybrid Forms "
+Wereboar,Medium,78 (12d8+24),30 ft. (40 ft. in boar form),humanoid (human  shapechanger),Neutral Evil,4,1100,10,"In Humanoid Form, 11 In Boar And Hybrid Forms "
+Wererat,Medium,33 (6d8+6),30 ft.,humanoid (human  shapechanger),Lawful Evil,2,450,12,Natural Armor
+Weretiger,Medium,120 (16d8+48),30 ft. (40 ft. in tiger form),humanoid (human  shapechanger),Neutral,4,1100,12,Natural Armor
+Werewolf,Medium,58 (9d8+18),30 ft. (40 ft. in wolf form),humanoid (human  shapechanger),Chaotic Evil,3,700,11,"In Humanoid Form, 12 In Wolf Or Hybrid Form"
+White Dragon Wyrmling,Medium,32 (5d8+10),"30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",dragon,Chaotic Evil,2,450,16,Natural Armor
+Wight,Medium,45 (6d8+18),30 ft.,undead,Neutral Evil,3,700,14,Studded Leather
+Will-o'-Wisp,Tiny,22,"0 ft., fly 50 ft. (hover)",undead,Chaotic Evil,2,450,19,Natural Armor
+Winter Wolf,Large,75 (10d10+20),50 ft.,monstrosity,Neutral Evil,3,700,13,Natural Armor
+Wolf,Medium,11 (2d8+2),40 ft.,beast,Unaligned,1/4,50,13,Natural Armor
+Worg,Large,26 (4d10+4),50 ft.,monstrosity,Neutral Evil,1/2,100,13,Natural Armor
+Wraith,Medium,67 (9d8+27),"0 ft., fly 60 ft. (hover)",undead,Neutral Evil,5,1800,13,Natural Armor
+Wyvern,Large,110 (13d10+39),"20 ft., fly 80 ft.",dragon,Unaligned,6,2300,13,Natural Armor
+Xorn,Medium,73 (7d8+42),"20 ft., burrow 20 ft.",elemental,Neutral,5,1800,19,Natural Armor
+Young Black Dragon,Large,127 (15d10+45),"40 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,7,2900,18,Natural Armor
+Young Blue Dragon,Large,152 (16d10+64),"40 ft., burrow 40 ft., fly 80 ft.",dragon,Lawful Evil,9,5000,18,Natural Armor
+Young Brass Dragon,Large,110 (13d10+39),"40 ft., burrow 20 ft., fly 80 ft.",dragon,Chaotic Good,6,2300,17,Natural Armor
+Young Bronze Dragon,Large,142 (15d10+60),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,8,3900,18,Natural Armor
+Young Copper Dragon,Large,119 (14d10+42),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Good,7,2900,17,Natural Armor
+Young Gold Dragon,Large,178 (17d10+85),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Good,10,5900,18,Natural Armor
+Young Green Dragon,Large,136 (16d10+48),"40 ft., fly 80 ft., swim 40 ft.",dragon,Lawful Evil,8,3900,18,Natural Armor
+Young Red Dragon,Large,178 (17d10+85),"40 ft., climb 40 ft., fly 80 ft.",dragon,Chaotic Evil,10,5900,18,Natural Armor
+Young Silver Dragon,Large,168 (16d10+80),"40 ft., fly 80 ft.",dragon,Lawful Good,9,5000,18,Natural Armor
+Young White Dragon,Large,133 (14d10+56),"40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",dragon,Chaotic Evil,6,2300,17,Natural Armor
+Zombie,Medium,22 (3d8+9),20 ft.,undead,Neutral Evil,1/4,50,8,Natural Armor
